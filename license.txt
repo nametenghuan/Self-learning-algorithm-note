@@ -1,1 +1,3 @@
-thsi is a license.
+this is a license.
+学习git真有意思，高觉真是高大上。
+
