@@ -3,8 +3,5 @@ git is free software distributed underthe GPL.
 I learning 'git' now.
 git tracks changes.
 git is very good.
-<<<<<<< HEAD
 Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick and simple.
->>>>>>> feature1
+use no ff
